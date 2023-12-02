@@ -87,7 +87,7 @@ calibrateWithStrings = (input) => {
     sum += together;
   }
 
-  console.log({ sum });
+  console.log(sum);
 };
 
 calibrateWithStrings(calibrations);
